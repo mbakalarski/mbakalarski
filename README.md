@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CKA Badge](https://images.credly.com/size/340x340/images/cka.png)](https://www.credly.com/badges/8848a093-8fa1-4edf-9d97-f848ae2292c7)
+[![CKA Badge](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/8848a093-8fa1-4edf-9d97-f848ae2292c7)
