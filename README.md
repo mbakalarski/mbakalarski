@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![CKA Badge](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/8848a093-8fa1-4edf-9d97-f848ae2292c7)
+
+<a href="https://www.credly.com/badges/8848a093-8fa1-4edf-9d97-f848ae2292c7">
+  <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="120"/>
+</a>
