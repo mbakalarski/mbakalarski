@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![CKA Badge](https://images.credly.com/size/340x340/images/cka.png)](https://www.credly.com/badges/8848a093-8fa1-4edf-9d97-f848ae2292c7)
+
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-blue)
+![CKS](https://img.shields.io/badge/CKS-Kubernetes_Security_Specialist-green)
