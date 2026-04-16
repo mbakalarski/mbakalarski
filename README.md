@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.credly.com/badges/7b176731-6828-41dd-8635-dd91e0dde65f">
-  <img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="80"/>
+  <!-- <img src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="80"/> -->
+  <img src="cks.svg" width="80"/>
 </a>
 
 <a href="https://www.credly.com/badges/7049e3cc-448a-4c20-9b33-5fb22199b5fd">
